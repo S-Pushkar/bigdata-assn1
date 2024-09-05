@@ -1,0 +1,12 @@
+{"city": "Ahmedabad", "profit_stores": 3, "loss_stores": 5}
+{"city": "Bangalore", "profit_stores": 5, "loss_stores": 3}
+{"city": "Chennai", "profit_stores": 3, "loss_stores": 5}
+{"city": "Delhi", "profit_stores": 3, "loss_stores": 4}
+{"city": "Hyderabad", "profit_stores": 3, "loss_stores": 5}
+{"city": "Jaipur", "profit_stores": 3, "loss_stores": 5}
+{"city": "Kanpur", "profit_stores": 0, "loss_stores": 8}
+{"city": "Kolkata", "profit_stores": 8, "loss_stores": 1}
+{"city": "Lucknow", "profit_stores": 8, "loss_stores": 0}
+{"city": "Mumbai", "profit_stores": 4, "loss_stores": 4}
+{"city": "Pune", "profit_stores": 2, "loss_stores": 5}
+{"city": "Surat", "profit_stores": 3, "loss_stores": 5}
