@@ -2,27 +2,39 @@ import sys
 import json
 
 for l in sys.stdin:
-    line = l.strip()
-    if line == '' or line[0] == '[' or line[0] == ']':
+    line = l.strip().strip(',')
+    if line == '' or line == '[' or line == ']':
         continue
-    data = json.loads(line)
-    city = ''
-    if 'city' in data:
-        city = data['city']
-    categories = data['categories']
-    category_output = {}
+
+    try:
+        data = json.loads(line)
+    except json.JSONDecodeError:
+        continue
+
+    city = data.get('city', '')
+    categories = data.get('categories', [])
+    sales_data = data.get('sales_data', {})
+
+    if not sales_data:
+        print(city, 0, 0, sep='\t')
+        continue
+
+    has_sales_data = False
+    total_revenue = 0
+    total_cogs = 0
     for category in categories:
-        category_output[category] = 0
+        if category in sales_data:
+            revenue = sales_data[category].get('revenue', 0)
+            cogs = sales_data[category].get('cogs', 0)
+            total_revenue += revenue
+            total_cogs += cogs
+            has_sales_data = True
+    
+    if not has_sales_data:
+        print(city, 0, 0, sep='\t')
+        continue
 
-    if 'sales_data' in data:
-        for category in categories:
-            if category in data['sales_data']:
-                revenue = -1
-                if 'revenue' in data['sales_data'][category]:
-                    revenue = data['sales_data'][category]['revenue']
-                if 'cogs' in data['sales_data'][category]:
-                    revenue -= data['sales_data'][category]['cogs']
-                category_output[category] = revenue
-
-    for category in category_output:
-        print(city, 1 if category_output[category] > 0 else 0, 1 if category_output[category] <= 0 else 0, sep='\t')
+    if total_revenue - total_cogs > 0:
+        print(city, 1, 0, sep='\t')
+    else:
+        print(city, 0, 1, sep='\t')
