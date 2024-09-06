@@ -1,0 +1,603 @@
+r116 c07 product/search 00:00:46 3.0
+r115 c03 cart/remove 00:01:16 1.0
+r264 c08 cart/remove 00:00:19 3.0
+r233 c07 product/search 00:01:57 2.0
+r055 c10 cart/remove 00:01:44 2.0
+r223 c06 order/history 00:00:53 2.0
+r085 c07 user/settings 00:01:10 
+r043 c01 payment/submit 00:00:41 3.0
+r216 c05 cart/add 00:00:46 2.0
+r240 c07 cart/remove 00:00:15 2.0
+r270 c10 cart/add 00:00:15 1.0
+r063 c06 cart/add 00:01:39 
+r152 c07 payment/submit 00:00:43 
+r178 c03 product/search 00:00:03 
+r218 c04 cart/add 00:00:38 2.0
+r052 c09 cart/remove 00:01:09 1.0
+r244 c07 user/profile 00:00:52 
+r217 c06 product/details 00:00:54 1.0
+r014 c04 support/ticket 00:00:36 1.0
+r069 c02 product/details 00:00:14 2.0
+r237 c08 user/settings 00:00:34 3.0
+r154 c01 user/profile 00:01:40 1.0
+r012 c06 order/history 00:00:17 1.0
+r294 c08 cart/add 00:00:39 1.0
+r209 c01 cart/add 00:00:39 1.0
+r054 c09 product/details 00:00:25 
+r252 c10 user/settings 00:00:59 
+r212 c01 cart/add 00:01:56 1.0
+r080 c02 cart/add 00:01:00 2.0
+r288 c03 order/checkout 00:01:28 
+r175 c01 user/settings 00:00:12 3.0
+r195 c09 cart/remove 00:01:13 3.0
+r036 c04 product/search 00:00:13 
+r286 c07 user/settings 00:01:39 2.0
+r008 c05 cart/add 00:01:34 
+r273 c06 cart/add 00:01:09 1.0
+r241 c07 product/details 00:01:53 1.0
+r009 c08 order/checkout 00:00:28 
+r247 c09 cart/remove 00:00:26 3.0
+r258 c07 support/ticket 00:00:06 
+r073 c05 user/profile 00:00:22 2.0
+r074 c10 support/ticket 00:00:49 
+r136 c08 user/profile 00:01:07 1.0
+r039 c10 cart/add 00:00:41 1.0
+r040 c01 cart/remove 00:00:09 3.0
+r001 c01 payment/submit 00:00:53 3.0
+r019 c07 payment/submit 00:01:35 1.0
+r163 c04 product/details 00:00:29 3.0
+r066 c10 order/checkout 00:00:53 2.0
+r300 c06 cart/add 00:01:06 
+r238 c09 cart/remove 00:01:43 
+r157 c05 payment/submit 00:00:29 1.0
+r099 c06 payment/submit 00:00:38 2.0
+r208 c07 user/profile 00:00:19 2.0
+r131 c07 payment/submit 00:01:21 1.0
+r198 c01 cart/remove 00:00:29 3.0
+r033 c03 product/search 00:01:44 1.0
+r128 c08 payment/submit 00:00:16 2.0
+r220 c05 cart/remove 00:01:56 3.0
+r048 c06 product/details 00:01:52 1.0
+r010 c07 product/details 00:01:42 1.0
+r269 c03 product/search 00:01:24 2.0
+r107 c04 support/ticket 00:00:48 3.0
+r045 c05 cart/add 00:01:04 
+r226 c05 cart/add 00:00:45 3.0
+r281 c10 product/details 00:01:54 3.0
+r096 c03 payment/submit 00:01:45 1.0
+r034 c04 cart/add 00:01:28 3.0
+r071 c04 product/search 00:00:35 1.0
+r125 c02 cart/remove 00:00:49 3.0
+r251 c02 cart/add 00:01:41 
+r170 c04 payment/submit 00:01:22 
+r229 c01 payment/submit 00:01:16 2.0
+r282 c07 order/checkout 00:01:01 2.0
+r276 c01 order/checkout 00:01:00 3.0
+r075 c05 payment/submit 00:00:43 
+r127 c04 order/checkout 00:00:33 3.0
+r167 c07 product/search 00:00:31 1.0
+r081 c08 user/profile 00:00:10 1.0
+r060 c08 user/profile 00:00:57 
+r144 c03 cart/remove 00:01:51 
+r100 c05 cart/remove 00:00:39 1.0
+r092 c08 product/search 00:00:29 
+r179 c06 order/checkout 00:00:08 
+r214 c08 order/checkout 00:00:31 3.0
+r089 c06 payment/submit 00:00:28 3.0
+r159 c10 cart/remove 00:00:25 2.0
+r022 c02 payment/submit 00:00:10 
+r056 c07 user/profile 00:00:27 
+r246 c08 product/details 00:01:14 
+r153 c10 support/ticket 00:01:22 
+r239 c10 user/settings 00:00:55 3.0
+r262 c10 payment/submit 00:01:52 3.0
+r199 c03 order/checkout 00:00:53 2.0
+r021 c02 user/settings 00:01:29 3.0
+r006 c04 product/search 00:01:16 3.0
+r046 c09 user/settings 00:01:23 1.0
+r296 c06 cart/remove 00:00:21 2.0
+r088 c08 user/settings 00:00:14 3.0
+r255 c03 product/details 00:00:27 2.0
+r101 c04 product/details 00:00:52 
+r130 c02 product/details 00:01:23 2.0
+r027 c03 user/profile 00:00:47 3.0
+r236 c06 support/ticket 00:00:09 3.0
+r111 c06 support/ticket 00:00:36 1.0
+r290 c06 product/search 00:01:43 2.0
+r161 c08 order/history 00:00:05 1.0
+r077 c05 user/profile 00:01:59 
+r110 c02 user/profile 00:01:15 2.0
+r182 c03 order/checkout 00:00:28 
+r057 c06 payment/submit 00:01:58 3.0
+r299 c10 support/ticket 00:01:13 1.0
+r078 c09 user/profile 00:00:50 1.0
+r058 c08 cart/remove 00:00:42 
+r197 c02 user/settings 00:01:57 1.0
+r093 c02 order/history 00:00:27 1.0
+r277 c01 payment/submit 00:00:05 2.0
+r023 c06 cart/add 00:01:18 1.0
+r227 c07 user/profile 00:00:14 3.0
+r204 c09 payment/submit 00:00:21 2.0
+r234 c07 order/checkout 00:01:09 1.0
+r095 c09 product/search 00:01:52 
+r165 c07 payment/submit 00:00:39 1.0
+r171 c10 product/details 00:00:10 2.0
+r164 c09 cart/add 00:00:32 2.0
+r274 c03 cart/add 00:01:06 
+r249 c03 user/profile 00:00:33 1.0
+r186 c08 payment/submit 00:00:38 2.0
+r260 c07 order/checkout 00:01:33 1.0
+r137 c06 order/checkout 00:00:10 
+r268 c05 support/ticket 00:01:29 3.0
+r020 c03 support/ticket 00:00:32 1.0
+r015 c07 support/ticket 00:01:47 
+r261 c08 product/search 00:00:59 1.0
+r013 c03 cart/add 00:00:25 
+r132 c08 product/search 00:01:12 1.0
+r064 c08 cart/remove 00:00:20 3.0
+r124 c04 user/profile 00:01:24 
+r007 c01 support/ticket 00:00:46 1.0
+r053 c02 cart/add 00:00:05 2.0
+r180 c08 cart/add 00:00:01 3.0
+r271 c02 user/settings 00:01:05 1.0
+r076 c06 payment/submit 00:01:34 2.0
+r291 c06 user/settings 00:00:06 2.0
+r098 c05 user/settings 00:01:28 3.0
+r177 c01 user/settings 00:01:19 1.0
+r139 c05 user/profile 00:00:06 1.0
+r118 c08 user/profile 00:01:36 
+r091 c08 payment/submit 00:01:11 2.0
+r254 c03 product/details 00:01:39 1.0
+r011 c03 product/search 00:01:31 2.0
+r142 c10 user/settings 00:01:56 2.0
+r147 c01 user/settings 00:00:40 1.0
+r278 c05 user/profile 00:00:28 3.0
+r120 c05 order/history 00:01:45 3.0
+r158 c07 user/settings 00:00:32 2.0
+r016 c08 product/search 00:01:35 1.0
+r032 c07 cart/remove 00:00:37 
+r173 c10 order/checkout 00:00:43 2.0
+r018 c01 product/details 00:00:22 1.0
+r176 c10 product/details 00:00:52 
+r028 c06 cart/add 00:00:58 2.0
+r207 c04 cart/remove 00:01:23 3.0
+r189 c09 order/history 00:01:36 2.0
+r194 c01 cart/remove 00:00:06 1.0
+r285 c03 user/settings 00:01:05 1.0
+r162 c09 support/ticket 00:00:39 
+r250 c03 user/settings 00:01:40 1.0
+r126 c03 support/ticket 00:01:11 3.0
+r050 c04 support/ticket 00:01:00 1.0
+r119 c09 order/history 00:00:42 
+r133 c08 user/profile 00:01:56 3.0
+r103 c01 payment/submit 00:01:51 2.0
+r228 c02 cart/remove 00:00:08 2.0
+r156 c05 cart/remove 00:01:24 3.0
+r184 c02 cart/add 00:01:40 
+r231 c03 payment/submit 00:01:33 
+r086 c07 user/settings 00:01:25 3.0
+r029 c08 order/history 00:01:21 1.0
+r049 c05 support/ticket 00:01:16 
+r138 c10 product/search 00:00:35 1.0
+r082 c01 user/settings 00:00:49 3.0
+r059 c06 order/checkout 00:00:35 
+r097 c03 order/history 00:00:39 1.0
+r117 c10 payment/submit 00:01:55 
+r062 c04 support/ticket 00:01:53 3.0
+r047 c07 order/checkout 00:01:04 1.0
+r188 c09 payment/submit 00:00:08 2.0
+r113 c09 cart/add 00:00:12 1.0
+r287 c10 user/profile 00:00:33 1.0
+r135 c08 product/search 00:00:11 1.0
+r257 c09 user/settings 00:01:41 1.0
+r215 c01 payment/submit 00:01:57 3.0
+r283 c09 user/profile 00:00:52 
+r002 c09 payment/submit 00:01:25 3.0
+r143 c01 order/history 00:01:55 3.0
+r292 c08 user/profile 00:00:08 3.0
+r295 c01 user/settings 00:01:54 3.0
+r004 c01 cart/add 00:01:53 3.0
+r061 c01 product/details 00:01:21 2.0
+r030 c05 product/search 00:01:55 1.0
+r105 c02 support/ticket 00:00:21 
+r279 c10 product/details 00:01:06 2.0
+r205 c03 order/history 00:01:01 
+r090 c01 product/search 00:01:07 3.0
+r213 c06 user/profile 00:00:16 3.0
+r169 c05 order/checkout 00:00:53 2.0
+r102 c02 support/ticket 00:01:59 
+r230 c04 order/history 00:00:06 3.0
+r243 c07 user/settings 00:00:24 1.0
+r201 c08 product/details 00:01:57 2.0
+r122 c02 user/settings 00:01:52 1.0
+r037 c06 user/settings 00:01:36 2.0
+r242 c10 payment/submit 00:01:31 3.0
+r038 c09 order/history 00:00:13 1.0
+r272 c08 support/ticket 00:01:39 
+r280 c04 cart/add 00:01:48 1.0
+r248 c01 support/ticket 00:01:48 2.0
+r259 c09 product/search 00:01:26 3.0
+r224 c10 user/profile 00:00:04 
+r149 c01 cart/remove 00:01:43 
+r172 c03 cart/add 00:01:13 
+r232 c09 support/ticket 00:00:58 1.0
+r024 c09 product/details 00:00:41 1.0
+r265 c04 support/ticket 00:00:43 3.0
+r150 c04 product/details 00:01:44 2.0
+r067 c01 user/profile 00:00:45 2.0
+r166 c07 support/ticket 00:01:15 2.0
+r123 c06 order/history 00:00:01 3.0
+r044 c04 cart/remove 00:00:41 1.0
+r025 c05 product/details 00:01:05 3.0
+r289 c01 payment/submit 00:01:27 
+r187 c09 cart/add 00:01:30 1.0
+r041 c05 support/ticket 00:01:47 
+r284 c01 cart/add 00:00:44 1.0
+r245 c01 product/search 00:01:01 2.0
+r141 c07 payment/submit 00:00:05 2.0
+r206 c05 payment/submit 00:00:59 3.0
+r219 c04 product/details 00:00:23 3.0
+r235 c05 payment/submit 00:00:10 
+r174 c05 user/settings 00:00:50 3.0
+r017 c06 cart/remove 00:00:24 
+r200 c03 order/checkout 00:01:07 
+r035 c07 payment/submit 00:01:50 1.0
+r211 c04 order/checkout 00:01:56 
+r275 c05 order/history 00:01:39 1.0
+r221 c03 support/ticket 00:01:21 
+r134 c05 payment/submit 00:00:20 1.0
+r109 c09 user/profile 00:00:49 1.0
+r297 c07 user/settings 00:00:51 
+r293 c08 user/profile 00:00:21 1.0
+r196 c05 order/checkout 00:00:31 3.0
+r210 c04 payment/submit 00:01:29 
+r183 c07 user/settings 00:00:12 3.0
+r202 c04 cart/add 00:01:20 1.0
+r140 c10 payment/submit 00:00:27 2.0
+r112 c06 user/settings 00:00:49 3.0
+r155 c04 product/search 00:00:01 2.0
+r168 c02 cart/add 00:01:22 3.0
+r256 c09 order/history 00:01:33 
+r094 c04 product/search 00:01:02 
+r121 c01 user/settings 00:01:50 
+r146 c01 user/profile 00:00:01 
+r051 c06 payment/submit 00:00:05 2.0
+r031 c05 cart/add 00:01:57 2.0
+r267 c03 order/checkout 00:00:57 3.0
+r298 c04 user/settings 00:01:06 
+r191 c06 cart/add 00:01:56 1.0
+r003 c02 cart/add 00:00:45 3.0
+r148 c05 cart/remove 00:01:48 
+r106 c05 cart/remove 00:00:51 3.0
+r005 c07 payment/submit 00:00:56 1.0
+r065 c01 support/ticket 00:00:15 1.0
+r026 c06 cart/add 00:00:42 
+r079 c08 payment/submit 00:01:48 1.0
+r160 c09 cart/remove 00:01:06 
+r072 c09 user/settings 00:00:35 
+r266 c10 order/history 00:01:28 
+r185 c07 user/settings 00:00:33 
+r253 c02 payment/submit 00:01:26 3.0
+r225 c05 payment/submit 00:00:19 1.0
+r190 c03 product/details 00:00:13 2.0
+r151 c03 product/details 00:00:52 
+r084 c10 product/details 00:01:09 2.0
+r083 c07 cart/remove 00:01:54 2.0
+r108 c03 order/checkout 00:00:24 1.0
+r181 c01 payment/submit 00:01:32 2.0
+r070 c03 product/search 00:00:15 1.0
+r192 c03 cart/add 00:00:19 3.0
+r263 c08 cart/add 00:01:24 3.0
+r193 c06 product/search 00:01:22 2.0
+r068 c02 order/history 00:01:08 
+r087 c06 cart/remove 00:01:59 
+r042 c02 product/details 00:00:15 
+r104 c02 order/history 00:01:31 2.0
+r129 c01 user/settings 00:00:55 3.0
+r114 c06 support/ticket 00:00:47 3.0
+r203 c09 cart/remove 00:01:27 3.0
+r222 c03 product/details 00:00:05 2.0
+r145 c06 payment/submit 00:00:48 2.0
+
+
+r234 200
+r232 500
+r253 500
+r111 500
+r220 200
+r124 200
+r188 500
+r102 200
+r081 500
+r217 200
+r233 200
+r295 500
+r076 500
+r255 200
+r246 200
+r214 200
+r006 500
+r113 500
+r277 200
+r104 500
+r235 500
+r198 500
+r248 200
+r140 500
+r135 200
+r229 200
+r167 500
+r012 500
+r097 200
+r169 200
+r116 200
+r161 200
+r029 500
+r159 500
+r177 200
+r068 500
+r263 500
+r027 200
+r183 200
+r028 500
+r213 200
+r089 500
+r274 500
+r092 500
+r084 500
+r125 500
+r100 200
+r051 500
+r106 200
+r193 200
+r079 500
+r226 500
+r064 200
+r063 200
+r292 500
+r180 500
+r046 500
+r142 500
+r163 200
+r058 200
+r091 200
+r045 200
+r268 200
+r236 500
+r231 200
+r036 500
+r221 500
+r272 500
+r144 200
+r132 200
+r118 500
+r085 200
+r017 500
+r216 200
+r150 200
+r158 500
+r228 200
+r039 200
+r004 200
+r289 200
+r223 500
+r173 200
+r247 500
+r101 200
+r269 200
+r206 500
+r242 200
+r299 500
+r203 500
+r066 200
+r200 200
+r143 200
+r215 200
+r126 500
+r080 500
+r133 200
+r023 200
+r157 200
+r293 200
+r207 200
+r276 200
+r136 500
+r061 200
+r048 200
+r098 500
+r267 200
+r179 500
+r119 200
+r168 500
+r013 500
+r273 500
+r018 500
+r278 500
+r062 500
+r298 500
+r178 500
+r210 200
+r134 200
+r174 200
+r240 500
+r230 500
+r121 500
+r297 500
+r049 500
+r146 500
+r166 200
+r054 200
+r110 200
+r241 200
+r003 500
+r224 200
+r114 500
+r067 500
+r108 200
+r037 500
+r112 500
+r087 500
+r137 200
+r195 500
+r282 500
+r042 200
+r156 500
+r033 500
+r096 200
+r172 200
+r285 500
+r279 200
+r176 200
+r270 200
+r184 500
+r254 500
+r182 500
+r086 500
+r189 500
+r041 500
+r047 200
+r171 500
+r237 500
+r208 500
+r075 500
+r074 500
+r026 200
+r151 500
+r139 200
+r040 200
+r005 500
+r287 500
+r160 200
+r147 200
+r088 500
+r219 500
+r222 200
+r275 500
+r129 200
+r050 200
+r165 200
+r250 200
+r225 500
+r259 200
+r243 200
+r010 200
+r181 500
+r034 500
+r019 200
+r031 200
+r053 500
+r291 200
+r038 500
+r024 200
+r186 200
+r009 500
+r070 500
+r244 500
+r052 200
+r227 200
+r032 500
+r138 200
+r078 500
+r115 200
+r122 200
+r164 500
+r265 200
+r196 200
+r175 200
+r288 200
+r055 200
+r262 500
+r015 500
+r162 500
+r201 200
+r131 200
+r249 500
+r035 500
+r199 500
+r251 200
+r001 500
+r057 500
+r257 200
+r141 500
+r286 200
+r211 200
+r148 500
+r264 500
+r094 500
+r128 200
+r117 200
+r152 500
+r090 500
+r170 200
+r130 500
+r103 200
+r107 500
+r284 200
+r149 200
+r212 500
+r204 500
+r016 500
+r252 500
+r266 500
+r020 200
+r093 200
+r197 500
+r187 500
+r056 200
+r105 200
+r008 200
+r145 200
+r002 500
+r245 200
+r059 500
+r060 500
+r120 200
+r095 200
+r069 200
+r271 200
+r021 500
+r290 200
+r280 200
+r083 500
+r283 200
+r194 200
+r025 200
+r261 200
+r044 200
+r296 500
+r218 500
+r011 500
+r238 200
+r127 200
+r073 500
+r065 500
+r123 500
+r300 200
+r030 500
+r294 500
+r202 200
+r007 200
+r256 500
+r258 200
+r099 200
+r022 200
+r077 500
+r155 500
+r154 500
+r192 200
+r260 200
+r072 200
+r109 200
+r185 200
+r281 500
+r209 500
+r071 500
+r191 200
+r082 200
+r239 500
+r205 500
+r153 200
+r190 500
+r014 500
+r043 200
+
