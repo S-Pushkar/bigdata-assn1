@@ -1,0 +1,21 @@
+r001 c01 user/profile 00:00:00 2.0
+r002 c02 user/profile 00:00:00 2.0
+r003 c03 user/settings 00:01:02
+r004 c01 order/history 00:01:05 2.0
+r005 c05 order/history 00:05:03 3.0
+r006 c03 order/history 00:05:03 3.0
+r007 c02 user/settings 00:07:00 1.0
+r008 c03 user/settings 00:07:05
+r009 c01 user/profile 00:08:00
+r010 c04 user/profile 00:08:05 3.0
+
+r001 500
+r002 500
+r003 200
+r004 200
+r005 500
+r006 500
+r007 200
+r008 200
+r009 500
+r010 200
