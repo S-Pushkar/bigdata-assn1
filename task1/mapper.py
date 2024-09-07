@@ -26,6 +26,8 @@ for l in sys.stdin:
     total_cogs = 0
     for category in categories:
         if category in sales_data:
+            if 'revenue' not in sales_data[category] or 'cogs' not in sales_data[category]:
+                continue
             revenue = sales_data[category].get('revenue', 0)
             cogs = sales_data[category].get('cogs', 0)
             total_revenue += revenue
