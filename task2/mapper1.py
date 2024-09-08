@@ -17,4 +17,4 @@ for l in sys.stdin:
         no_of_servers_down = 0
         if len(line_arr) == 5:
             no_of_servers_down = int(float(line_arr[4]))
-        print(f"{timestamp},{client_id},{request_id},{endpoint},{no_of_servers_down}")
+        print(f"{timestamp},{request_id},{client_id},{endpoint},{no_of_servers_down}")
