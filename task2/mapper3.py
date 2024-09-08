@@ -2,13 +2,10 @@
 
 import sys
 
-number_of_data_points = 0
-
 for l in sys.stdin:
     line = l.strip()
-    line_array = line.split(' ')
+    line_array = line.split(',')
     if len(line_array) == 2:
-        number_of_data_points += 1
         print(line)
     elif len(line_array) == 7:
         timestamp = int(line_array[0])
@@ -18,4 +15,4 @@ for l in sys.stdin:
         no_of_servers_down = int(float(line_array[4]))
         status_code = int(line_array[5])
         cost = int(line_array[6])
-        print(f"{request_id} {client_id} {status_code} {cost}")
+        print(f"{request_id},{client_id},{status_code},{cost}")

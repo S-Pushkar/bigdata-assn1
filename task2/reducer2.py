@@ -17,15 +17,15 @@ costs = {
 
 for l in sys.stdin:
     line = l.strip()
-    line_array = line.split(' ')
+    line_array = line.split(',')
     if len(line_array) == 2:
         print(line)
     elif len(line_array) == 6:
         timestamp = line_array[0]
-        request_id = line_array[1]
-        client_id = line_array[2]
+        client_id = line_array[1]
+        request_id = line_array[2]
         endpoint = line_array[3]
         no_of_servers_down = int(line_array[4])
         status = int(line_array[5])
         cost = costs[endpoint] if status == 200 else 0
-        print(f"{timestamp} {request_id} {client_id} {endpoint} {no_of_servers_down} {status} {cost}")
+        print(f"{timestamp},{request_id},{client_id},{endpoint},{no_of_servers_down},{status},{cost}")
