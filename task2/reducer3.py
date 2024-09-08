@@ -29,6 +29,7 @@ for l in sys.stdin:
         if request_id in requests:
             if status_code == requests[request_id]:
                 clients[client_id]["number_of_correct_predictions"] += 1
+            requests.pop(request_id)
         # if previous_request_id == request_id:
         #     if status_code == prediction:
         #         clients[client_id]["number_of_correct_predictions"] += 1
