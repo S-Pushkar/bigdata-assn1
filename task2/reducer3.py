@@ -21,10 +21,11 @@ for l in sys.stdin:
         cost = int(line_array[3])
         if client_id not in clients:
             clients[client_id] = {"total_cost": 0, "total_requests": 0, "number_of_correct_predictions": 0}
-        clients[client_id]["total_cost"] += cost
-        clients[client_id]["total_requests"] += 1
-        if status_code == prediction and request_id == previous_request_id:
-            clients[client_id]["number_of_correct_predictions"] += 1
+        if previous_request_id == request_id:
+            clients[client_id]["total_cost"] += cost
+            clients[client_id]["total_requests"] += 1
+            if status_code == prediction:
+                clients[client_id]["number_of_correct_predictions"] += 1
 
 client_keys = sorted(clients.keys())
 for client_id in client_keys:
